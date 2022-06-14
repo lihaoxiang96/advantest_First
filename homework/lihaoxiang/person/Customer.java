@@ -1,0 +1,7 @@
+package homework.lihaoxiang.person;
+
+public class Customer {
+    public String name;
+    public  double money;
+    public boolean isDringCar;
+}
